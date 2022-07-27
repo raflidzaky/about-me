@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raflidzaky
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning economics in university
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on my Linkedin
 https://www.linkedin.com/in/muhammad-dzaky-rafliansyah-5187a2210/  
 
