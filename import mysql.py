@@ -4,8 +4,8 @@ import pandas as pd
 # Connect to the MySQL connector
 db = connection.connect(host='127.0.0.1', 
                         database='bank', 
-                        user='llamaik', 
-                        passwd='radixomniumroma1453',
+                        user='user', # Change 'user' and 'password' onto your own database context
+                        passwd='password',
                         auth_plugin='mysql_native_password',
                         )
 
