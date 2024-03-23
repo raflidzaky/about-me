@@ -13,7 +13,7 @@ def get_the_data(database):
     try:
         sql = 'SELECT * FROM account'
         df = pd.read_sql(sql, con=database)
-        df.to_excel('bank_account.xlsx', 
+        df.to_excel('sample_output.xlsx', 
                      index=False)
         print('Success!')
     except Exception as e:
